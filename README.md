@@ -1,2 +1,2 @@
-# well-logs
-loading and visualizing
+# Training
+# loading and visualizing 
